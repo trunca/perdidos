@@ -1,10 +1,10 @@
 #Modulo falso para compatibilidad con Oe-Alliance
 
 def getMachineBuild():
-    return "gbx1"
+    return "gbue4k"
 
 def getMachineProcModel():
-    return "gbx1"
+    return "gbue4k"
 
 def getMachineBrand():
     return "Gigablue"
